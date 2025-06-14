@@ -42,4 +42,4 @@ The application is hosted on **EC2 instances running Tomcat**, behind a **load b
 
 ## 🌐 Application Access
 
-- The Java web application is accessible via:
+- The Java web application is accessible via: Load Balancer URL or Your domain purchased from domain registrar
